@@ -36,6 +36,8 @@ pip install -r requirements.txt
 #Run the AI Predictor
 python ik_predictor.py
 
+```
+
 ## Output
 The script generates a matplotlib visualization showing target coordinate alignment and positioning error in millimeters.
 
