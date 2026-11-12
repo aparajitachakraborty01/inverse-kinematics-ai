@@ -47,10 +47,10 @@ The script generates a matplotlib visualization showing target coordinate alignm
 and upgrading this repository as I expand my knowledge of neural control systems. 
 
 ### Future Upgrades and Roadmap
-- Extend neural architecture to 3-DOF planar arm in 3D coordinate space $(x, y, z)$.
-- Integrate a real-time interactive Pygame/Physics simulation frontend for mouse-target tracking.
-- Compare Neural Network IK accuracy against analytical trigonometric solvers and Jacobian pseudoinverse methods.
-- Experiment with specialized loss functions (e.g., adding Euclidean position loss directly into training instead of purely joint-angle MSE).
+-[ ]Extend neural architecture to 3-DOF planar arm in 3D coordinate space $(x, y, z)$.
+-[ ]Integrate a real-time interactive Pygame/Physics simulation frontend for mouse-target tracking.
+-[ ]Compare Neural Network IK accuracy against analytical trigonometric solvers and Jacobian pseudoinverse methods.
+-[ ]Experiment with specialized loss functions (e.g., adding Euclidean position loss directly into training instead of purely joint-angle MSE).
 
 --------------
 
