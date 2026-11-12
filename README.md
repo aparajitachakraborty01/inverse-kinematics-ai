@@ -16,7 +16,7 @@ Make sure you have Python installed on your system.
 
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/inverse-kinematics-ai.git](https://github.com/YOUR_USERNAME/inverse-kinematics-ai.git)
+git clone [https://github.com/YOUR_USERNAME/inverse-kinematics-ai.git](https://github.com/aparajitachakraborty01/inverse-kinematics-ai.git)
 cd inverse-kinematics-ai
 # Create the virtual environment
 python -m venv venv
